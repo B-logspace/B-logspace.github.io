@@ -1,3 +1,10 @@
 title: BsLOGSPACE
 description: Random Thoughts and Reflections
+author: Bea
+
 theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
