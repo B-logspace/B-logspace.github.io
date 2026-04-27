@@ -1,6 +1,0 @@
-title: My Blog
-description: Thoughts and reflections
-
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
