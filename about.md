@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm the author of this blog, Bea.
+Hi, I'm the author of this blog, B.
 
 This space is where I share my ideas and thoughts about various things. 
 
